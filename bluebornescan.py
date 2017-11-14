@@ -1,7 +1,6 @@
 import time
 import bluetooth
 import vulndevices
-#import cve20170785
 import blueborne_vuln
 
 deviceMACs = vulndevices.get_devices()
